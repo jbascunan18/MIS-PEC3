@@ -1,0 +1,282 @@
+Intel
+Core
+i9-14900K
+i7-14700K
+i5-13600K
+i3-12100F
+Ultra 9 285K
+Ultra 7 155H
+Ultra 5 125H
+Xeon
+AMD
+Ryzen
+Ryzen 5
+Ryzen 7
+9950X
+7800X3D
+5800X3D
+7600X
+5600G
+Threadripper
+7980X
+EPYC
+Snapdragon
+Snapdragon X
+Apple
+M3 Max
+M2 Ultra
+M1 Pro
+NVIDIA
+GeForce
+RTX
+5090
+5080
+4090
+4080
+Super
+NVIDIA
+4070
+Ti
+4060
+3060
+GTX
+1650
+Radeon
+RX
+XTX
+7800 XT
+7600
+6700 XT
+Intel Arc
+A770
+Arc A750
+DLSS
+Frame Generation
+FSR
+Ray Tracing
+Path Tracing
+Xess
+Socket
+LGA
+AM5
+AM4
+Chipset
+Z790
+B650
+X670E
+H610
+DDR5
+DDR4
+XMP
+EXPO
+CAS
+Latency
+NVMe
+PCIe
+SSD
+M.2
+HDD
+SATA
+Fuente de alimentación
+ATX
+Certificación 80
+Plus Gold
+Cable 12VHPWR
+Refrigeración líquida
+AIO
+Disipador por aire
+Pasta térmica
+Thermal Throttling
+Undervolt
+Overclocking
+Coil
+Whine
+VRM
+MOSFET
+Condensador
+PCB
+BIOS
+UEFI
+TPM 2.0
+Windows 11
+Linux
+Ubuntu
+macOS
+Sonoma
+Drivers
+OLED
+QD-OLED
+IPS
+Tasa de refresco
+144Hz
+240Hz
+360Hz
+540Hz
+Lag
+Ghosting
+Black Smearing
+HDR10+
+Dolby Vision
+DisplayPort
+HDMI
+Teclado mecánico
+Switches Cherry MX
+Ratón
+PixArt
+DPI
+Polling Rate
+8000Hz
+IEMs
+DAC
+Cancelación de ruido
+XLR
+Webcam
+4K
+Stream
+OBS Studio
+AV1
+Bitrate
+Wi-Fi
+6E
+Ethernet
+2.5G
+Bluetooth
+5.4
+USB-C
+Thunderbolt 4
+Smartphone
+Plegable
+Samsung Galaxy S24 Ultra
+iPhone 15 Pro Max
+Google Pixel 8 Pro
+Xiaomi 14 Ultra
+Batería
+mAh
+Carga rápida
+GaN
+Inteligencia Artificial
+NPU
+Machine Learning
+Blockchain
+Criptominería
+Servidor
+NAS
+Home Assistant
+Raspberry Pi
+Arduino
+Impresión 3D
+Filamento
+PLA
+Resina UV
+Gafas VR
+Meta Quest 3
+Apple Vision Pro
+Realidad Aumentada
+Computación en la nube
+Data Center
+Ciberseguridad
+VPN
+Firewall
+Phishing
+Malware
+Ransomware
+Autenticación de dos factores
+Gestor de contraseñas
+Código abierto
+SaaS
+API
+SDK
+Docker
+Kubernetes
+Python
+JavaScript
+C++
+Rust
+HTML5
+CSS3
+Unreal Engine 5
+Unity
+Godot
+GitHub
+Stack Overflow
+Prompt Engineering
+ChatGPT
+Copilot
+Gemini
+Midjourney
+Stable Diffusion
+Tecnología háptica
+Internet de las Cosas (IoT)
+Domótica
+Smartwatch
+Wearables
+Dron
+DJI
+Estabilizador
+Gimbal
+Cámara
+Mirrorless
+Sensor
+Full Frame
+Lente
+Gran Angular
+Distancia focal
+Apertura
+f/1.8
+ISO
+Ruido digital
+RAW
+Log profile
+LUTs
+Edición de video
+Renderizado
+Adobe Premiere
+DaVinci Resolve
+Blender
+Cinema 4D
+AutoCAD
+Benchmark
+Cinebench
+3DMark
+FurMark
+Prime95
+CrystalDiskMark
+HWMonitor
+CPU-Z
+GPU-Z
+MSI Afterburner
+RivaTuner
+Frame Time
+Low FPS
+Stuttering
+Tearing
+V-Sync
+G-Sync
+FreeSync
+Pantalla azul
+BSOD
+Bootloop
+Brick
+Firmware Update
+Parche de seguridad
+Beta tester
+Early Adopter
+Unboxing
+Review
+Teardown
+Refurbished
+RMA
+Garantía
+Obsolescencia programada
+E-waste
+Sostenibilidad tecnológica
+Silicio
+Transistor
+Nanómetros
+Litografía
+Wafer
+TSMC
+Samsung Foundry
+Intel Foundry
+ASML
+Ley de Moore
